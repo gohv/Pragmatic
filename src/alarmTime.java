@@ -13,7 +13,7 @@ public class alarmTime {
 
 		switch (alarmTime) {
 		case 1:
-			System.out.println("kur");
+			System.out.println("something");
 			break;
 
 		case 2:
