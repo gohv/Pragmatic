@@ -7,9 +7,9 @@ public class loop {
 			number ++;
 			System.out.println(number);
 			
-			for(int kur = 1; kur < 100; kur++){
+			for(int i = 1; i < 100; i++){
 				
-				System.out.println("kur " + kur);
+				System.out.println("test " + i);
 			}
 		}
 		
